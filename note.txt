@@ -11,7 +11,7 @@
 6.นำเข้า Postman ไฟล์ชื่อ My_Nux3-Starter-API.postman_collection.json
 
 7.ทดสอบ login endpoint ชื่อ auth-login โดยระบุ body ดังนี้
-ิbody {
+body {
   "username": "admin",
   "password": "admin"
 }
