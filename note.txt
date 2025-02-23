@@ -1,0 +1,17 @@
+1.bun install
+
+2.bun run dev
+
+3.แก้ไข .env.example เป็น .env
+
+4.สร้าง DB ชื่อ starterdb
+
+5.นำเข้าไฟล์ startdb.sql 
+
+6.นำเข้า Postman ไฟล์ชื่อ My_Nux3-Starter-API.postman_collection.json
+
+7.ทดสอบ login endpoint ชื่อ auth-login โดยระบุ body ดังนี้
+ิbody {
+  "username": "admin",
+  "password": "admin"
+}
